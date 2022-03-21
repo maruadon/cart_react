@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cart_react/static/css/main.18c99ed1.css",
+    "main.js": "/cart_react/static/js/main.fabbfc37.js",
+    "index.html": "/cart_react/index.html",
+    "main.18c99ed1.css.map": "/cart_react/static/css/main.18c99ed1.css.map",
+    "main.fabbfc37.js.map": "/cart_react/static/js/main.fabbfc37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c99ed1.css",
+    "static/js/main.fabbfc37.js"
+  ]
+}
